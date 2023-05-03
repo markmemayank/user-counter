@@ -1,4 +1,5 @@
 === User Counter ===
+
 Contributors: markmemayank
 
 Tags: Count the number of all type of users
@@ -13,6 +14,7 @@ Display the count of Administrator, Contributor, Author, Editor & Subscribers
 
 
 == Description ==
+
 This plugin helps you to see the count of Administrator, Contributor, Author, Editor & Subscribers at a glance in your WordPress Dashboard in form of a widget
 
 == Installation ==
