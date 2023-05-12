@@ -1,4 +1,4 @@
-=== User Counter ===
+== User Counter ==
 
 Contributors: markmemayank
 
