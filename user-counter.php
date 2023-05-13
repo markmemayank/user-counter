@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: User Role Counter
-Plugin URI: https://markmemayank.com
+Plugin URL: https://markmemayank.com
 Description: Counts the number of admins, contributors, authors, editors, and subscribers.
 Version: 1.0
 Author: Mayank Kumar
