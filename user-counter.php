@@ -25,8 +25,8 @@ function urc_display_users_by_role() {
         <table>
             <?php foreach ($counts as $role => $count) { ?>
                 <tr>
-                    <td><?php echo ucfirst($role); ?>:</td>
-                    <td><?php echo $count; ?></td>
+                    <td><?php echo esc_html(ucfirst($role)); ?>:</td>
+                    <td><?php echo esc_html($count); ?></td>
                 </tr>
             <?php } ?>
         </table>
