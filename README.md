@@ -1,15 +1,10 @@
 === User Counter ===
 
 Contributors: markmemayank
-
 Tags: Count the number of all type of users
-
 Tested up to: 6.1
-
 Stable tag: 1.0
-
 License: GPLv2 or later
-
 Display the count of Administrator, Contributor, Author, Editor & Subscribers
 
 
