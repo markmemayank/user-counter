@@ -12,6 +12,8 @@ License: GPLv2 or later
 
 Display the count of Administrator, Contributor, Author, Editor & Subscribers
 
+This plugin is open for transaltion as well : https://translate.wordpress.org/projects/wp-plugins/user-role-counter/
+
 
 == Description ==
 This plugin helps you to see the count of Administrator, Contributor, Author, Editor & Subscribers at a glance in your WordPress Dashboard in form of a widget
