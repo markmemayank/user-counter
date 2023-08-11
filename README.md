@@ -4,7 +4,7 @@ Contributors: markmemayank
 
 Tags: Count the number of all type of users
 
-Tested up to: 6.1
+Tested up to: 6.3
 
 Stable tag: 1.0
 
